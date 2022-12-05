@@ -10,7 +10,7 @@ const styles = {
 
   flexCenter: 'flex justify-center items-center',
   flexStart: 'flex justify-start items-start',
-  //flexEnd: 'flex justify-end',
+  flexEnd: 'flex justify-end',
   navPadding: 'pt-[98px]',
 
   // hero section
