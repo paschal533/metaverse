@@ -10,7 +10,7 @@ export const exploreWorlds = [
     title: 'The Upside Down',
   },
   {
-    //id: 'world-3',
+    id: 'world-3',
     imgUrl: '/planet-03.png',
     title: 'Kadirojo Permai',
   },
