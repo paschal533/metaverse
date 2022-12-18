@@ -6,7 +6,7 @@ export const exploreWorlds = [
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
+    //imgUrl: '/planet-02.png',
     title: 'The Upside Down',
   },
   {
