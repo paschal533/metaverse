@@ -12,7 +12,7 @@ export const exploreWorlds = [
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    //title: 'Kadirojo Permai',
   },
   {
     id: 'world-4',
