@@ -5,7 +5,7 @@ export const exploreWorlds = [
     title: 'The Hogwarts',
   },
   {
-    //id: 'world-2',
+    id: 'world-2',
     imgUrl: '/planet-02.png',
     title: 'The Upside Down',
   },
